@@ -16,7 +16,7 @@ public class Test : MonoBehaviour
 
 
         //配列宣言の課題、ここから//
-        int[] array = { 10, 20, 30, 40, 50 };
+        int[] array = { 10, 20, 30, 40, 50};
         for (int i = 0; i < array.Length; i++)
         {
             Debug.Log(array[i]);
